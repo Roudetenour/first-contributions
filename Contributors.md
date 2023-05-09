@@ -1578,4 +1578,5 @@
 - Fubge(https://github.com/Fubge)
 - [wiwat](https://github.com/mostvivat)
 - [Adrian Gryń](https://github.com/Adrgryn)
+- [Roudetenour](http://github.com/Roudetenour)
 - <!-- prettier-ignore-end -->
